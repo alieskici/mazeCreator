@@ -4,7 +4,7 @@ Algorithm: Recursive
 
 Language: C#
 
-Platform: Microsoft Windows 7+, NET 4.8+
+Platform: Microsoft Windows 7+, .NET 4.8+
 
 Creator
 	Ali Eskici
